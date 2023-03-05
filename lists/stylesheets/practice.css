@@ -1,0 +1,12 @@
+.lists {
+    font-family: JetBrains Mono;
+}
+
+h3 {
+    font-family: JetBrains Mono;
+    font-size: 25px;
+}
+
+li {
+    margin: 5px;
+}
