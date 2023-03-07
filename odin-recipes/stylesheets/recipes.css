@@ -1,0 +1,25 @@
+body {
+    font-family: JetBrains Mono;
+}
+
+p {
+    margin: 30px 0px;
+}
+
+img {
+    height: 500px;
+    width:  500px;
+    border-radius: 15%;
+}
+
+div {
+    margin: 75px 0px;
+}
+
+ol {
+    margin: 50px 0px;
+}
+
+li {
+    margin: 20px 0px;
+}
